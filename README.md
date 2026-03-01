@@ -20,7 +20,7 @@ The implementation was intentionally done step-by-step to build strong conceptua
 
 This project uses the built-in Iris dataset provided by Scikit-learn.
 
-Dataset characteristics:
+### Dataset Characteristics
 
 - 150 samples
 - 4 numerical features:
@@ -30,11 +30,11 @@ Dataset characteristics:
   - Petal Width
 - 3 species (used only for reference; clustering itself is unsupervised)
 
-Dataset loading:
+### Dataset Loading
 
 ```python
-
 from sklearn.datasets import load_iris
+```
 
 ## 📊 Visual Results
 
