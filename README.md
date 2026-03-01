@@ -33,4 +33,23 @@ Dataset characteristics:
 Dataset loading:
 
 ```python
+
 from sklearn.datasets import load_iris
+
+## 📊 Visual Results
+
+### 🔹 K-Means Cluster Visualization
+
+![KMeans Cluster](images/k-means_image.png)
+
+---
+
+### 🔹 PCA Visualization
+
+![PCA Visualization](images/pca-image.png)
+
+---
+
+### 🔹 Elbow Method
+
+![Elbow Plot](images/elbow-image.png)
